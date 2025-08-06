@@ -1,4 +1,4 @@
-/* * Data converted from /home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /home/shubham/Desktop/vscode/FINALTRACKERAI/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

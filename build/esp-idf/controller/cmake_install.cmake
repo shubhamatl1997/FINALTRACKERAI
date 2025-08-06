@@ -1,4 +1,4 @@
-# Install script for directory: /home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/components/controller
+# Install script for directory: /home/shubham/Desktop/vscode/FINALTRACKERAI/components/controller
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

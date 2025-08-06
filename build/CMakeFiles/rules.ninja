@@ -1993,7 +1993,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_webfota_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /home/shubham/.espressif/tools/cmake/3.30.2/bin/cmake --regenerate-during-build -S/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER -B/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build
+  command = /home/shubham/.espressif/tools/cmake/3.30.2/bin/cmake --regenerate-during-build -S/home/shubham/Desktop/vscode/FINALTRACKERAI -B/home/shubham/Desktop/vscode/FINALTRACKERAI/build
   description = Re-running CMake...
   generator = 1
 

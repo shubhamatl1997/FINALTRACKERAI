@@ -10,18 +10,18 @@ if(NOT EXISTS "/home/shubham/esp/v5.4.2/esp-idf/components/bootloader/subproject
   file(MAKE_DIRECTORY "/home/shubham/esp/v5.4.2/esp-idf/components/bootloader/subproject")
 endif()
 file(MAKE_DIRECTORY
-  "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader"
-  "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix"
-  "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/tmp"
-  "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp"
-  "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src"
-  "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp"
+  "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader"
+  "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix"
+  "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/tmp"
+  "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp"
+  "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src"
+  "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
+    file(MAKE_DIRECTORY "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp${cfgdir}") # cfgdir has leading slash
 endif()

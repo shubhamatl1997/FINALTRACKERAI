@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/CMakeFiles/bootloader
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/CMakeFiles/bootloader.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/CMakeFiles/bootloader-complete.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/CMakeFiles/bootloader
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/CMakeFiles/bootloader.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/CMakeFiles/bootloader-complete.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

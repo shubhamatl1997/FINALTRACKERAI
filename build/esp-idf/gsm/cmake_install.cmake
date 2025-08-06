@@ -1,4 +1,4 @@
-# Install script for directory: /home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/components/gsm
+# Install script for directory: /home/shubham/Desktop/vscode/FINALTRACKERAI/components/gsm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

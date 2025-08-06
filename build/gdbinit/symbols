@@ -13,8 +13,8 @@ end
 
 # Load bootloader symbols
 set confirm off
-    add-symbol-file /home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/bootloader/bootloader.elf
+    add-symbol-file /home/shubham/Desktop/vscode/FINALTRACKERAI/build/bootloader/bootloader.elf
 set confirm on
 
 # Load application symbols
-file /home/shubham/Desktop/vscode/FINALTRACKER/FINALTRACKER/build/FINALTRACKER.elf
+file /home/shubham/Desktop/vscode/FINALTRACKERAI/build/FINALTRACKER.elf
