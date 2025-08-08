@@ -43,5 +43,6 @@ void app_main(void)
     };
     gps_init(&gps);
     xTaskCreate(gps_task, "gps", 4096, NULL, 5, NULL);
+
 }
 

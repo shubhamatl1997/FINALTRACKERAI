@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "FINALTRACKER",
-    "project_version":    "c699b66-dirty",
+    "project_version":    "012f10e-dirty",
     "project_path":       "/home/shubham/Desktop/vscode/FINALTRACKERAI",
     "idf_path":           "/home/shubham/esp/v5.4.2/esp-idf",
     "build_dir":          "/home/shubham/Desktop/vscode/FINALTRACKERAI/build",
@@ -1120,7 +1120,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "/home/shubham/Desktop/vscode/FINALTRACKERAI/build/esp-idf/gps/libgps.a",
-            "sources": [ "/home/shubham/Desktop/vscode/FINALTRACKERAI/components/gps/src/gps.c" ],
+            "sources": [ "/home/shubham/Desktop/vscode/FINALTRACKERAI/components/gps/src/gps.c", "/home/shubham/Desktop/vscode/FINALTRACKERAI/components/gps/src/gps_nmea_parser.c", "/home/shubham/Desktop/vscode/FINALTRACKERAI/components/gps/src/gps_startup.c" ],
             "include_dirs": [ "include" ]
         },
         "gsm": {
